@@ -5,8 +5,7 @@ http://minds.jacobs-university.de/mantas
 http://organic.elis.ugent.be/
 http://www.scholarpedia.org/article/Echo_state_network
 Mantas Lukoševičius "A Practical Guide to Applying Echo State Networks"
-Konrad Stanek "Reservoir computing in 
-nancial forecasting with committee methods"
+Konrad Stanek "Reservoir computing in Financial forecasting with committee methods"
 """
 import numpy as np
 import matplotlib.pyplot as plt
